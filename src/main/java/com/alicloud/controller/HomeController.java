@@ -1,4 +1,4 @@
-package com.aliclound.controller;
+package com.alicloud.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
