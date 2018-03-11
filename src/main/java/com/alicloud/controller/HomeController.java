@@ -13,6 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
     @GetMapping("/home")
     public ResponseEntity home(){
-        return ResponseEntity.ok("Welcome to Charles Ali Cloud home page.");
+        return ResponseEntity.ok("Welcome to SmartZone.");
     }
 }
